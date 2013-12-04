@@ -10,15 +10,15 @@
 
 //----------------------------------------------------------
 
-#define NUMBER_OF_TEST_RUNS   5
-//#define COUNT_MEMORY_ACCESSES
+//#define NUMBER_OF_TEST_RUNS   10
+#define COUNT_MEMORY_ACCESSES
 int in_counter, gtemp_counter, gauss_counter, edge_counter, out_counter;
 int accux_counter, accuy_counter, buffer_counter, memory_counter;
 
 //----------------------------------------------------------
 
 #include "helperfunctions.h"
-#include "original.h"
+#include "step2.h"
 
 //----------------------------------------------------------
 
