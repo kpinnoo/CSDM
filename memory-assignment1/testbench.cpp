@@ -18,7 +18,7 @@ int accux_counter, accuy_counter, buffer_counter, memory_counter;
 //----------------------------------------------------------
 
 #include "helperfunctions.h"
-#include "step2.h"
+#include "step3.h"
 
 //----------------------------------------------------------
 
